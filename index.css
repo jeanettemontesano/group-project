@@ -146,3 +146,31 @@ p {
   font-size: 10px;
   margin-left: 5%;
 }
+
+body {
+font-family:verdana;
+}
+
+.carbon {
+  font-family:verdana;
+  background-color: #333;
+  color:white;
+  font-size:2em;
+  text-align:center;
+  margin-top: -1%;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+
+.stick {
+  display:block;
+  width:10%;
+  text-align:center;
+  padding: 10px;
+  margin: auto auto;
+}
+
+#one {
+text-align: center;
+}
+
