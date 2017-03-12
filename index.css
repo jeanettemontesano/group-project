@@ -169,16 +169,27 @@ h1 {
   text-align:center;
 }
 .point-one{
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 80px;
   text-align:center;
-  padding-top: 8%
+  padding-top: 3%;
+  text-align:center;
 
 }
 
 .point-two {
-  text-align:center;
-  max-width:300px;
+  background-color: #333;
+  color: white;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 10px;
+  margin-left: 0px;
 }
 
+.point-pic {
+  text-align:center;
+}
 
+#stick {
+  max width: 60%;
+}
